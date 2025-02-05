@@ -4,7 +4,7 @@
 
 ###
 
-<div>
+<div padding="10%">
   
   <div width="65%">
     <br clear="both">
@@ -15,7 +15,7 @@
     </div>
   </div>
 
-  <div align="center", height="150" width="30%">
+  <div align="right", height="150" width="30%">
     <img src="https://profile-counter.glitch.me/MaksChojniak/count.svg?"  />
   </div>
 
