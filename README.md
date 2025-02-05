@@ -4,7 +4,7 @@
 
 ###
 
-<div padding="10%">
+<div display="flex" justify-content="center" align-items="center">
   
   <div width="65%">
     <br clear="both">
