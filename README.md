@@ -13,7 +13,7 @@
   </div>
 
   <div align="right" width="30%">
-    <img align="right" height="150" src="https://scontent.fktw4-1.fna.fbcdn.net/v/t39.30808-6/306528711_1278509896334371_6107974676541668775_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=AatXQFehWMEQ7kNvgHCvRA5&_nc_zt=23&_nc_ht=scontent.fktw4-1.fna&_nc_gid=ADBhFDwF8hAGSbZpMQ7GBDx&oh=00_AYBAV-iZ5AxaxdZE0xVHpUNWPDpnKfkwHoQqfehDjAofFg&oe=67A915D8"  />  
+    <img align="center" src="https://scontent.fktw4-1.fna.fbcdn.net/v/t39.30808-6/306528711_1278509896334371_6107974676541668775_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=AatXQFehWMEQ7kNvgHCvRA5&_nc_zt=23&_nc_ht=scontent.fktw4-1.fna&_nc_gid=ADBhFDwF8hAGSbZpMQ7GBDx&oh=00_AYBAV-iZ5AxaxdZE0xVHpUNWPDpnKfkwHoQqfehDjAofFg&oe=67A915D8"  />  
     <img src="https://profile-counter.glitch.me/MaksChojniak/count.svg?"  />
   </div>
 
