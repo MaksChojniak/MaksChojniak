@@ -17,7 +17,7 @@
 
 ###
 
-<div align="right">
+<div align="right", height="150">
   <img src="https://profile-counter.glitch.me/MaksChojniak/count.svg?"  />
 </div>
 
