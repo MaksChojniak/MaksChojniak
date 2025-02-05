@@ -4,14 +4,22 @@
 
 <br clear="both">
 
-<div align="center">
+<img align="right" height="150" src="https://scontent.fktw4-1.fna.fbcdn.net/v/t39.30808-6/306528711_1278509896334371_6107974676541668775_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=AatXQFehWMEQ7kNvgHCvRA5&_nc_zt=23&_nc_ht=scontent.fktw4-1.fna&_nc_gid=ADBhFDwF8hAGSbZpMQ7GBDx&oh=00_AYBAV-iZ5AxaxdZE0xVHpUNWPDpnKfkwHoQqfehDjAofFg&oe=67A915D8"  />
+
+###
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MaksChojniak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaksChojniak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<br clear="both">
+<div align="right">
+  <img src="https://profile-counter.glitch.me/MaksChojniak/count.svg?"  />
+</div>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
@@ -26,16 +34,6 @@
 ###
 
 <br clear="both">
-
-<p align="center">Projects:</p>
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://scontent.fktw4-1.fna.fbcdn.net/v/t39.30808-6/306528711_1278509896334371_6107974676541668775_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=AatXQFehWMEQ7kNvgHCvRA5&_nc_zt=23&_nc_ht=scontent.fktw4-1.fna&_nc_gid=ADBhFDwF8hAGSbZpMQ7GBDx&oh=00_AYBAV-iZ5AxaxdZE0xVHpUNWPDpnKfkwHoQqfehDjAofFg&oe=67A915D8"  />
-
-###
 
 <div align="left">
   <a href="https://discord.com/users/:545274748834283521" target="_blank">
@@ -56,12 +54,6 @@
   <a href="https://www.youtube.com/@TwinTechTitans" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-</div>
-
-###
-
-<div align="right">
-  <img src="https://profile-counter.glitch.me/MaksChojniak/count.svg?"  />
 </div>
 
 ###
