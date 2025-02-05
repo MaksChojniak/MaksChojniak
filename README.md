@@ -15,7 +15,7 @@
     </div>
   </div>
 
-  <div align="right", height="150" width="30%" margin_right="5%">
+  <div align="center", height="150" width="30%">
     <img src="https://profile-counter.glitch.me/MaksChojniak/count.svg?"  />
   </div>
 
