@@ -11,6 +11,12 @@
 
 <br clear="both">
 
+<img align="right" src="https://profile-counter.glitch.me/MaksChojniak/count.svg?"  />
+
+###
+
+<br clear="both">
+
 <img align="right" height="150" src="https://scontent-waw2-1.xx.fbcdn.net/v/t39.30808-6/306528711_1278509896334371_6107974676541668775_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=mNCG0v-KEfUQ7kNvgENRmc1&_nc_zt=23&_nc_ht=scontent-waw2-1.xx&_nc_gid=Aw8JLZGuMVqicKMdo2s2kLP&oh=00_AYAVQ_0o27x0ikcwptzsBlZETSHjkcaGUTeffLGHP5uJ8Q&oe=67B2F918"  />
 
 ###
@@ -47,12 +53,6 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img width="110" align="right" src="https://profile-counter.glitch.me/MaksChojniak/count.svg?"  />
 
 ###
 
