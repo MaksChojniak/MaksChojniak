@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<div width="200" display="flex" justify-content="center" align-items="center" >
+<div width="200" height="180" display="flex" justify-content="center" align-items="center" >
   <img vertical-align="middle" align="right" height="150" src="https://scontent-waw2-1.xx.fbcdn.net/v/t39.30808-6/306528711_1278509896334371_6107974676541668775_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=mNCG0v-KEfUQ7kNvgENRmc1&_nc_zt=23&_nc_ht=scontent-waw2-1.xx&_nc_gid=Aw8JLZGuMVqicKMdo2s2kLP&oh=00_AYAVQ_0o27x0ikcwptzsBlZETSHjkcaGUTeffLGHP5uJ8Q&oe=67B2F918"  />
 
   <img vertical-align="middle" align="right" width="120" height="20" src="https://profile-counter.glitch.me/MaksChojniak/count.svg?"  />
