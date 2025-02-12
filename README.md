@@ -53,7 +53,7 @@
 <br clear="both">
 
 <div align="right">
-  <img width="70" src="https://profile-counter.glitch.me/MaksChojniak/count.svg?"  />
+  <img width="100" src="https://profile-counter.glitch.me/MaksChojniak/count.svg?"  />
 </div>
 
 ###
